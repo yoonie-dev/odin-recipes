@@ -1,0 +1,1 @@
+This project is a basic recipe website to review introductory HTML and practice git commits. 
